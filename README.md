@@ -72,24 +72,24 @@ Reliability & Tooling (PyTest, OS Module)
 
 ## 🧩 Topic-by-Topic Breakdown
 
-| # | Topic | Key Concepts Practiced | Timestamp |
-|---|---|---|---|
-| 1 | OOP Overview | Why OOP matters in data code | [06:54](https://www.youtube.com/watch?v=M-UtKxgtKag&t=414s) |
-| 2 | Classes & Objects | Blueprints, instances, attributes | [26:17](https://www.youtube.com/watch?v=M-UtKxgtKag&t=1577s) |
-| 3 | Constructors | `__init__`, object initialization | [35:06](https://www.youtube.com/watch?v=M-UtKxgtKag&t=2106s) |
-| 4 | Encapsulation | Access modifiers (public/protected/private) | [49:29](https://www.youtube.com/watch?v=M-UtKxgtKag&t=2969s) |
-| 5 | End-to-End Data Example | Applying OOP to a real data problem | [1:07:38](https://www.youtube.com/watch?v=M-UtKxgtKag&t=4058s) |
-| 6 | Class vs Static Methods | `@classmethod`, `@staticmethod`, `cls` vs `self` | [1:20:06](https://www.youtube.com/watch?v=M-UtKxgtKag&t=4806s) |
-| 7 | Inheritance | Single, multi-level, multiple inheritance | [1:44:28](https://www.youtube.com/watch?v=M-UtKxgtKag&t=6268s) |
-| 8 | Polymorphism | Method overriding, dynamic behavior | [2:26:59](https://www.youtube.com/watch?v=M-UtKxgtKag&t=8819s) |
-| 9 | Decorators | Function wrapping, `@` syntax | [2:40:18](https://www.youtube.com/watch?v=M-UtKxgtKag&t=9618s) |
-| 10 | Multi-Threading | `threading` module, parallel I/O tasks | [3:06:01](https://www.youtube.com/watch?v=M-UtKxgtKag&t=11161s) |
-| 11 | Pydantic | Schema validation, `BaseModel` | [3:28:16](https://www.youtube.com/watch?v=M-UtKxgtKag&t=12496s) |
-| 12 | Async Python | `async`/`await`, event loop | [3:51:46](https://www.youtube.com/watch?v=M-UtKxgtKag&t=13906s) |
-| 13 | Coroutines with Gather | `asyncio.gather()` for concurrent execution | [4:24:59](https://www.youtube.com/watch?v=M-UtKxgtKag&t=15899s) |
-| 14 | APIs Overview & Fetching | REST basics, `requests`, JSON handling | [4:43:09](https://www.youtube.com/watch?v=M-UtKxgtKag&t=16989s) / [4:55:02](https://www.youtube.com/watch?v=M-UtKxgtKag&t=17702s) |
-| 15 | PyTest | Test functions, assertions, fixtures | [5:30:04](https://www.youtube.com/watch?v=M-UtKxgtKag&t=19804s) |
-| 16 | OS Module | File paths, environment variables, directories | [6:13:11](https://www.youtube.com/watch?v=M-UtKxgtKag&t=22391s) |
+| # | Topic | Key Concepts Practiced | 
+|---|---|---|
+| 1 | OOP Overview | Why OOP matters in data code |
+| 2 | Classes & Objects | Blueprints, instances, attributes | 
+| 3 | Constructors | `__init__`, object initialization | 
+| 4 | Encapsulation | Access modifiers (public/protected/private) | 
+| 5 | End-to-End Data Example | Applying OOP to a real data problem | 
+| 6 | Class vs Static Methods | `@classmethod`, `@staticmethod`, `cls` vs `self` |
+| 7 | Inheritance | Single, multi-level, multiple inheritance | 
+| 8 | Polymorphism | Method overriding, dynamic behavior | 
+| 9 | Decorators | Function wrapping, `@` syntax | 
+| 10 | Multi-Threading | `threading` module, parallel I/O tasks | 
+| 11 | Pydantic | Schema validation, `BaseModel` | 
+| 12 | Async Python | `async`/`await`, event loop |
+| 13 | Coroutines with Gather | `asyncio.gather()` for concurrent execution | 
+| 14 | APIs Overview & Fetching | REST basics, `requests`, JSON handling | 
+| 15 | PyTest | Test functions, assertions, fixtures | 
+| 16 | OS Module | File paths, environment variables, directories |
 
 ---
 
@@ -399,6 +399,4 @@ Python-Advanced/
 
 ---
 
-## 🔗 Course Reference
 
-- 🎥 **Full Course:** [Advanced Python for Data Domain](https://www.youtube.com/watch?v=M-UtKxgtKag)
