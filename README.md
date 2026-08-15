@@ -73,7 +73,7 @@ Reliability & Tooling (PyTest, OS Module)
 ## 🧩 Topic-by-Topic Breakdown
 
 | # | Topic | Key Concepts Practiced |
-|---|---|---|---|
+|---|---|---|
 | 1 | OOP Overview | Why OOP matters in data code | 
 | 2 | Classes & Objects | Blueprints, instances, attributes | 
 | 3 | Constructors | `__init__`, object initialization | 
